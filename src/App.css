@@ -1,0 +1,37 @@
+/*7ce9978b0d99ad827c6180480ad1ae6b*/
+
+
+.App{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 80vh;
+  width: auto;
+}
+.h1{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  justify-content: center;
+  text-align: center;
+  color: peru;
+}
+.p{
+  font-size: 25px;
+}
+.button{
+  margin: 2rem 0;
+}
+.controls{
+  width: 25vw;
+}
+
+.Box{
+  justify-content: center;
+  text-align: center;
+  padding: 20vh 0;
+  width: 40vw;
+  height: 50vh;
+  background-color: blueviolet;
+  color: white;
+}
+
+
